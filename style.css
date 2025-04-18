@@ -233,6 +233,16 @@ footer .container {
   align-items: center;
 }
 
+.footer-credit {
+  flex: 1; 
+  text-align: left;
+}
+
+footer a {
+  color: black; 
+  text-decoration: none; 
+}
+
 /* Section divider */
 .section-divider {
   border-bottom: 1px solid #986B54;
